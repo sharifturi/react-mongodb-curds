@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "6221e9ff711c42195b3e8e81"
+  },
+  "companyName": "New University",
+  "phone": "923-911-603566",
+  "email": "info@test.com",
+  "location": "Islamabad F-10",
+  "link": "https://abc.com",
+  "description" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,"
+  },{
+  "_id": {
+    "$oid": "6221eaa1711c42195b3e8e8b"
+  },
+  "companyName": "Test Pvt Ltd",
+  "phone": "925-212-234567",
+  "email": "info@bahria.edu.com",
+  "location": "Next to St. Joseph Church, Addis Ababa",
+  "link": "https://bahria.edu.com",
+  "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, "
+  },{
+  "_id": {
+    "$oid": "6221eac7711c42195b3e8e90"
+  },
+  "companyName": "Wisebit",
+  "phone": "923-422-098765",
+  "email": "info@xyz.com",
+  "location": "But I must explain to you how all ",
+  "link": "https://foji.com",
+  "description": "ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+  },{
+  "_id": {
+    "$oid": "6221eafc711c42195b3e8e95"
+  },
+  "companyName": "Rafi Group",
+  "phone": "923-000-123456",
+  "email": "xyz@test.com",
+  "location": "CoCo Mo",
+  "link": "https://www.cocomo.com/",
+  "description": "The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs vex bold Jim. Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz. How quickly daft jumping zebras vex. Two driven jocks help fax my big quiz. Quick, Baz, get my woven flax jodhpurs! "Now fax quiz Jack!" my brave ghost pled. Five quacking zephyrs jolt my wax bed. Flummoxed by job, kvetching W. zaps Iraq. Cozy sphinx waves quart jug of bad milk. A very bad quack might jinx zippy fowls. Few quips galvanized the mock jury box. Quick brown dogs jump over the lazy fox. The jay, pig, fox, zebra, and my wolves quack! Blowzy red vixens fight for a quick jump. Joaquin Phoenix was gazed by MTV for luck. A wizard’s job is to vex chumps quickly in fog. Watch "Jeopardy!", Alex Trebek's fun TV quiz game. Woven silk pyjamas exchanged for blue quartz. Brawny gods just"
+
+  },{
+  "_id": {
+    "$oid": "6225f780e0696f30edaa17e5"
+  },
+  "companyName": "Kabir Group",
+  "phone": "923-321-656565",
+  "email": "info@kabir.com",
+  "location": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.",
+  "link": "https://lorem.com/",
+  "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque",
+  "__v": 0
+}]

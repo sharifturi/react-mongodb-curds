@@ -1,8 +1,10 @@
-# MERN CRUDS
 
-MERN Stack CRUD built with React v17+, RRDv6+, Node.js, Express.js MongoDB and Mongoose ODM.
+# React CRUD Simple App
 
-**You can import the JSON File named 'Cruds' to your MongoDB. You will find it in the Server Folder**
+Developed using the MERN Stack, this CRUD application is powered by ReactJS, React Router Dom, Node.js, Express.js, MongoDB, and Mongoose ODM.
+
+**To streamline the process, you can easily import the 'Cruds' JSON file into your MongoDB. Locate this file within the Server Folder for quick integration.**
+
 
 [Download](https://github.com/sharifturi/react-mongodb-curds)
 
@@ -68,6 +70,6 @@ cd server
 3. Import the following file to your MongoDB
 
 ```shell
-Cruds
+AppCruds.json
 ```
 
