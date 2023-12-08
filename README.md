@@ -70,6 +70,6 @@ cd server
 3. Import the following file to your MongoDB
 
 ```shell
-AppCruds.json
+Cruds
 ```
 
